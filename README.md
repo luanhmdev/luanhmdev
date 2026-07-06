@@ -1,10 +1,10 @@
-## Olá! Sou o Luan Henrique
+## Olá! Sou o Luan Henrique 👋
 
-Sou um desenvolvedor web apaixonado por transformar ideias em soluções funcionais e eficientes, com foco no back-end utilizando PHP e Laravel.
+Sou Engenheiro de Software com foco em desenvolvimento back-end utilizando PHP e Laravel. Trabalho na construção de APIs, integrações e aplicações escaláveis, sempre buscando escrever código limpo, de fácil manutenção e com foco em performance.
 
-- 💻 **Desenvolvedor Web** | Graduado em **Análise e Desenvolvimento de Sistemas**  
-- 👨🏽‍💻 Experiência com: **PHP (Laravel)**, **Vue.js**, **Node.js**, **MySQL** e **PostgreSQL**, **Docker**  
-- 🎯 Focado no aperfeiçoamento contínuo em **PHP** e no ecossistema **Laravel**
+- 💻 **Engenheiro de Software** | Graduado em **Análise e Desenvolvimento de Sistemas**
+- ⚙️ Experiência com **PHP (Laravel)**, **Vue.js**, **Node.js**, **MySQL**, **PostgreSQL** e **Docker**
+- 🚀 Interesse em **Arquitetura de Software**, **APIs**, **Integrações**, **Filas** e **Performance**
 
 ## 📊 GitHub Stats
 
