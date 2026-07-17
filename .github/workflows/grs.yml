@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=luanhmdev&count_private=true&show_icons=true&theme=dracula
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dracula
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=luanhmdev&layout=compact&langs_count=7&theme=dracula
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=7&theme=dracula
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
